@@ -3,9 +3,7 @@
 
     include 'php/connection.php';
 session_start();
-    // $sql = "SELECT username FROM login";
-    // $name = $_GET['username'];
-    // setcookie("name",'$name');
+    
 ?>
 <!DOCTYPE html>
 <html lang="en">
